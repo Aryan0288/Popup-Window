@@ -5,7 +5,6 @@ const overl=document.querySelector(".overlay");
 const openModal=() =>{
     p.classList.add("show");
     overl.classList.add("overlayactive");
-    // overl.classList.add('overlayactive');
     console.log('a');
 };
 const closeModal=() =>{
